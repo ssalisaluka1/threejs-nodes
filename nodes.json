@@ -1,0 +1,10 @@
+{
+  "NODE EXAMPLE": {
+    "inputs": {
+      "input1": "string"
+    },
+    "outputs": {
+      "output1": "string"
+    }
+  }
+}
