@@ -1,6 +1,7 @@
 {
   "NODE EXAMPLE": {
     "col": "white",
+    "category": "CATEGORY EXAMPLE",
     "inputs": {
       "input1": "string"
     },
