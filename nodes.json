@@ -1,5 +1,6 @@
 {
   "NODE EXAMPLE": {
+    "col": "white",
     "inputs": {
       "input1": "string"
     },
